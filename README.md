@@ -1,2 +1,0 @@
-# Build a Complete YouTube
- Welcome to this comprehensive coding tutorial where we will build a complete YouTube clone from scratch! Whether you're a beginner looking to dive into web development or an intermediate developer aiming to enhance your skills in modern web frameworks, this video is for you. We'll cover every step of the process, utilizing HTML, CSS, JavaScript, React, and Tailwind CSS to create a dynamic, responsive, and fully functional video-sharing platform.
